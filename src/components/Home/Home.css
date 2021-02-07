@@ -1,0 +1,11 @@
+.home{
+    padding:10% 8%;
+    background-image: url('../../Assets/image-1.svg');
+    background-repeat: no-repeat;
+    background-position: right;
+}
+@media screen and (max-width:768px){
+    .home{
+       background:none;    
+    }
+}
